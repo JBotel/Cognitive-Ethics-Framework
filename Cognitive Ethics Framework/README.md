@@ -58,7 +58,7 @@ Bias is sacred. Cognitive sovereignty is non-negotiable.
 
 ## 📬 Contact
 For collaboration, citation, or ethical license use:
-**QBI.ethics@protonmail.com**
+**botelj@proton.me**
 
 ---
 
@@ -76,3 +76,5 @@ All core commits and releases are GPG signed.
 
 To confirm authorship and content integrity, ensure commits are marked as "Good signature from Johnathan M. Botel".
 
+Repository:
+https//github.com/JBotel/Cognitive-Ethics-Framework
